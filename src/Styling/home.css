@@ -5,15 +5,10 @@
 
 
 
-#landingcont{
-    background-image: url('../Assets/editedback1.png');
-
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 
-.navlinks{
+
+/* .navlinks{
     font-family: 'Audiowide', cursive;
     color: whitesmoke!important;
     
@@ -21,4 +16,38 @@
 
 .navlinks:hover{
     color: #d39c24 !important;
+}
+
+
+.socials{
+    width: 30%;
+    height: auto;
+} */
+
+
+
+
+
+.logo{
+    width: auto;
+    height: 40%;
+}
+
+.title1{
+    color: #d39c24;
+    font-family: 'Audiowide', cursive;
+    font-size: 35pt;
+
+}
+.title2{
+    color: whitesmoke;
+    font-family: 'Audiowide', cursive;
+    font-size: 50pt;
+
+}
+
+.centerrow{
+    position: absolute;
+    top: 40%;
+    left: 24%
 }
