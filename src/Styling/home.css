@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+
+
+
+
+
+#landingcont{
+    background-image: url('../Assets/editedback1.png');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.navlinks{
+    font-family: 'Audiowide', cursive;
+    color: whitesmoke!important;
+    
+}
+
+.navlinks:hover{
+    color: #d39c24 !important;
+}
